@@ -1,6 +1,6 @@
-package com.bsmlima.cloud.tema05.service;
+package com.bsmlima.cloud.tollbooth.service;
 
-import com.bsmlima.cloud.tema05.application.AppConfig;
+import com.bsmlima.cloud.tollbooth.application.AppConfig;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

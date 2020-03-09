@@ -1,7 +1,7 @@
-package com.bsmlima.cloud.tema05.service;
+package com.bsmlima.cloud.tollbooth.service;
 
-import com.bsmlima.cloud.tema05.vehicle.Vehicle;
-import com.bsmlima.cloud.tema05.vehicle.VehicleTypes;
+import com.bsmlima.cloud.tollbooth.vehicle.Vehicle;
+import com.bsmlima.cloud.tollbooth.vehicle.VehicleTypes;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
 

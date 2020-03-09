@@ -1,4 +1,4 @@
-package com.bsmlima.cloud.tema05.vehicle;
+package com.bsmlima.cloud.tollbooth.vehicle;
 
 public enum VehicleTypes {
     BEETLE,

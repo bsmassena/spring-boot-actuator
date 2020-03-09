@@ -1,4 +1,4 @@
-package com.bsmlima.cloud.tema05.application;
+package com.bsmlima.cloud.tollbooth.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

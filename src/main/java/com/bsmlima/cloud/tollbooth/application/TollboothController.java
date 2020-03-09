@@ -1,6 +1,6 @@
-package com.bsmlima.cloud.tema05.application;
+package com.bsmlima.cloud.tollbooth.application;
 
-import com.bsmlima.cloud.tema05.service.TollboothService;
+import com.bsmlima.cloud.tollbooth.service.TollboothService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
